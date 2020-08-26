@@ -1,5 +1,5 @@
 <h2 align="center"> Projetos responsivos de Web Design do <br>
-     <img width= '220' src="./.github/FreeCodeCamp.png">
+     <img width= '220' src="WEB%20Design%20Responsivos/.github/imagens/FreeCodeCamp.png">
 </h2> <br>
 
 ## 📚 Sobre a freeCodeCamp
@@ -24,7 +24,7 @@ Assim vamos contruir:
 <h2>💣 BORA CODAR!</h2>
 ◾ Página de Tributo <br><br>
 <p align="center">
-  <img width= '500' src=".github/gifts/Tributo.gif">
+  <img width= '500' src="WEB%20Design%20Responsivos/.github/gifts/Tributo.gif">
 </p><br>
 
 
