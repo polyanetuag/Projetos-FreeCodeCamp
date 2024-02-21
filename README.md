@@ -17,7 +17,7 @@ Assim vamos contruir:
 
  - Uma página de tributo
  - Um formulário de pesquisa
- - Uma página de aterrissagem de produtos
+ - Uma página de produtos
  - Uma página de documentação técnica
  - E uma página da Web de portfólio pessoal
   
