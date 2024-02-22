@@ -29,6 +29,12 @@ Assim vamos contruir:
   <img width= '500' src="WEB%20Design%20Responsivos/.github/gifts/Tributo.gif">
 </p><br>
 
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+Desenvolvido com 💜 por Polyane Tuag
 
 
 
