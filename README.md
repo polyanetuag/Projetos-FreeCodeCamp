@@ -4,7 +4,7 @@
 
 ## 📚 Sobre a freeCodeCamp
 
-É uma organização sem fins lucrativos que consiste em uma plataforma web de aprendizagem interativa.
+É uma organização sem fins lucrativos que consiste em uma plataforma web de aprendizagem interativa na área de tecnologia.
 
 Possui um fórum de comunidade on-line, salas de bate-papo, publicações Medium e organizações locais que pretendem tornar a aprendizagem de desenvolvimento web acessível à qualquer pessoa.<br><br>
 
