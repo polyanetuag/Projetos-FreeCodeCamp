@@ -11,7 +11,9 @@ Possui um fórum de comunidade on-line, salas de bate-papo, publicações Medium
 ---
 ## 🚀Projetos
 
-Colocar suas habilidades recém-aprendidas para funcionar é um fundamental! Ao trabalhar em projetos você tem a oportunidade de aplicar todas as habilidades, princípios e conceitos que aprendeu até agora, tais como HTML, CSS, Design Visual, Acessibilidade, etc.
+Colocar suas habilidades recém-aprendidas para funcionar é um fundamental! 
+
+Ao trabalhar em projetos você tem a oportunidade de aplicar todas as habilidades, princípios e conceitos que aprendeu até agora, tais como HTML, CSS, Design Visual, Acessibilidade, etc.
 
 Assim vamos contruir:
 
